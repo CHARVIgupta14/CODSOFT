@@ -97,7 +97,7 @@ class ATM {
 }
 
 
-public class ATMSystem {
+public class Task3_ATM_interface {
     public static void main(String[] args) {
     
         BankAccount myAccount = new BankAccount(10000); 

@@ -50,7 +50,7 @@ else{
 }
 
     }}
-public class random_number_generator{
+public class Task1_Number_game{
     public static void main(String[] args) {
     game p=new game();
     p.play();

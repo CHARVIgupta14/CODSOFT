@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class student_grade_calculator {
+public class Task2_student_grade_calculator {
     public static void main(String[] args) {
         float a=0;
         System.out.println("enter the total number of subjects");
